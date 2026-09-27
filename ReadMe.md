@@ -34,6 +34,10 @@ The project was developed as part of my Bachelor's thesis at Turku University of
 
 [🔗 View FarmConnect in Figma](https://www.figma.com/design/iDw9PYEVSDJyJ0k8RhRJfB/FarmConnect-Hifi?node-id=0-1&t=8jhkHoNUmwU1HFKK-1)
 
+## Thesis
+
+[🔗 View my Thesis](https://urn.fi/URN:NBN:fi:amk-2026060522656)
+
 ## 📸 Screenshots
 
 ### Home
